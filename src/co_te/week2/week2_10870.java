@@ -2,7 +2,7 @@ package co_te.week2;
 
 import java.util.Scanner;
 
-public class week2_1 {
+public class week2_10870 {
 	static long arr[]=new long[100];
 	static long fibo(int n) {
 		if(n==0)

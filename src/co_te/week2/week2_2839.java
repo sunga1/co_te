@@ -2,7 +2,7 @@ package co_te.week2;
 import java.lang.*;
 import java.util.Scanner;
 
-public class week2_2 {
+public class week2_2839 {
 	static int arr[]=new int[10000];
 	public static int sugarcalc(int kilo) {
 		if(kilo<0)

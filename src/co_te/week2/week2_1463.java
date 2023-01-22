@@ -3,8 +3,8 @@ package co_te.week2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class week2_3 {
-	static int arr[]=new int[1000000];
+public class week2_1463 {
+	static int arr[]=new int[10000000];
 	public static int making1(int num) {
 		int x=1000000,y=1000000,z=1000000;
 		if(arr[num]!=10000000)
